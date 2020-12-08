@@ -1,0 +1,7 @@
+C:\Users\HP 15-bs\Source\Repos\Birds\Birds\bin\Debug\Birds.exe.config
+C:\Users\HP 15-bs\Source\Repos\Birds\Birds\bin\Debug\Birds.exe
+C:\Users\HP 15-bs\Source\Repos\Birds\Birds\bin\Debug\Birds.pdb
+C:\Users\HP 15-bs\Source\Repos\Birds\Birds\obj\Debug\Birds.csprojAssemblyReference.cache
+C:\Users\HP 15-bs\Source\Repos\Birds\Birds\obj\Debug\Birds.csproj.CoreCompileInputs.cache
+C:\Users\HP 15-bs\Source\Repos\Birds\Birds\obj\Debug\Birds.exe
+C:\Users\HP 15-bs\Source\Repos\Birds\Birds\obj\Debug\Birds.pdb
